@@ -705,7 +705,7 @@ p.footer-logo{
 	overflow:hidden;
 	z-index:100;
 	padding:155px 0 40px 0;
-	background: url(../images/bg.jpg);
+	background: url("../images/bg2.png");
 	background-position: center top;
     background-repeat: no-repeat;
 	background-attachment: scroll;
@@ -721,7 +721,7 @@ p.footer-logo{
 	right: 0;
 	left: 0;
 	background-color: #000000;
-	background-image: url("../images/bg.png");
+	background-image: url("../images/bg2.png");
 }
 
 .home-wrappe-inside{
@@ -1737,7 +1737,7 @@ p.contact_success_box{
 	position:relative;
 	overflow:hidden;
 	background: url(http://placehold.it/1920x1280);
-	background-image: url("../images/bg.png");
+	background-image: url("../images/bg4.png");
 	background-position: center center;
     background-repeat: no-repeat;
 	background-attachment: fixed;
@@ -1853,7 +1853,7 @@ p.testimonials-text {
 	width:100%;
 	position:relative;
 	z-index:100;
-	background-image: url("../images/bg.png");
+	background-image: url("../images/bg3.png");
 	background-position: center top;
     background-repeat: no-repeat;
 	background-attachment: fixed;
